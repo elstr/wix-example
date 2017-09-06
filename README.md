@@ -11,5 +11,5 @@
 
 `npm i`
 
-d`react-native run-ios`
+IOS `react-native run-ios`
 
